@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@types/cookie-parser": "^1.4.7",
+    "cookie-parse": "^0.4.0"
+  }
 }
